@@ -28,3 +28,6 @@ console.log(countriesAndCodes)  // You don't need to log countriesAndCodes - jus
 //      For example "Correct! The capital of Germany is Berlin" or "Wrong - the capital of Germany is not G, it is Berlin"
 
 
+// TODO finally, connect the play again button. Clear the user's answer, select a new random country, 
+// display the country's name, handle the user's guess. If you didn't use functions in the code you've 
+// already written, you should refactor your code to use functions to avoid writing very similar code twice. 
