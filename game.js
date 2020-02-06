@@ -17,7 +17,7 @@ console.log(countriesAndCodes)  // You don't need to log countriesAndCodes - jus
 
 // TODO add a click event handler to the submitButton.  When the user clicks the button,
 //  * read the text from the userAnswerElement 
-//  * Use fetch() to make a call to the World Bank API with the country code (from countriesAndCodes)
+//  * Use fetch() to make a call to the World Bank API with the two-letter country code (from countriesAndCodes, example 'CN' or 'AF')
 //  * Verify no errors were encountered in the API call. If an error occurs, display an alert message. 
 //  * If the API call was successful, extract the capital city from the World Bank API response.
 //  * Compare it to the user's answer. 
