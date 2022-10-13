@@ -4,7 +4,7 @@ let submitButton = document.querySelector('#submit-answer')
 let resultTextElement = document.querySelector('#result')
 
 // TODO finish the script to challenge the user about their knowledge of capital cities.
-// An array of country codes is provided in the countries.js file. 
+// An array country names and two-letter country codes is provided in the countries.js file. 
 // Your browser treats all JavaScript files included with script elements as one big file,
 // organized in the order of the script tags. So the countriesAndCodes array from countries.js
 // is available to this script.
